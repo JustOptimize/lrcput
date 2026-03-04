@@ -1,0 +1,3 @@
+mutagen
+eyed3
+tqdm
